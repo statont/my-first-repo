@@ -1,2 +1,2 @@
-# my-first-repo
-This is my first repo.
+# lab2-2
+This is a lab.
