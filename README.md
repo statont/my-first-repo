@@ -1,3 +1,7 @@
-# lab2-2
-This is a lab.
-Adding from feature-branch.
+# my-first-repo
+This is my first repo. 
+
+
+
+I hope that this reaches you well -dg
+
